@@ -3,9 +3,18 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Marie/Documents/NetBeansProjects/shoping/web/index.html</file>
             <file>file:/C:/Users/Marie/Documents/NetBeansProjects/shoping/web/WEB-INF/index.jsp</file>
             <file>file:/C:/Users/Marie/Documents/NetBeansProjects/shoping/web/WEB-INF/resultat.jsp</file>
+            <file>file:/C:/Users/Marie/Documents/NetBeansProjects/shoping/src/java/servlet/Servlet.java</file>
+            <file>file:/C:/Users/Marie/Documents/NetBeansProjects/shoping/src/java/modele/User.java</file>
+            <file>file:/C:/Users/Marie/Documents/NetBeansProjects/shoping/src/java/DatabaseConfig/DatabaseConfig.java</file>
+            <file>file:/C:/Users/Marie/Documents/NetBeansProjects/shoping/src/java/UserServlet/UserServlet.java</file>
+            <file>file:/C:/Users/Marie/Documents/NetBeansProjects/shoping/src/java/UserServlet/AfficherUserServlet.java</file>
+            <file>file:/C:/Users/Marie/Documents/NetBeansProjects/shoping/src/java/servlet/ListeUtilisateursServlet.java</file>
+            <file>file:/C:/Users/Marie/Documents/NetBeansProjects/shoping/web/List.jsp</file>
+            <file>file:/C:/Users/Marie/Documents/NetBeansProjects/shoping/src/java/modifierUtilisateurServlet/modifierUtilisateurServlets.java</file>
+            <file>file:/C:/Users/Marie/Documents/NetBeansProjects/shoping/web/modifiers.jsp</file>
+            <file>file:/C:/Users/Marie/Documents/NetBeansProjects/shoping/src/java/User/User.java</file>
         </group>
     </open-files>
 </project-private>
